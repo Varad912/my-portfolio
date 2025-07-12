@@ -77,9 +77,9 @@ export default async function Home() {
       <Skills />
       <Projects />
       <Education />
-      <Experience />
+      
       <ContactSection />
-      <Blog blogs={blogs} />
+      
     </>
   );
 }
